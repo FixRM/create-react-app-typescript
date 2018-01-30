@@ -7,7 +7,7 @@ Create React apps (with Typescript) with no build configuration.
 
 This repo is fork from official create-react-app TypeScript implementation: https://github.com/wmonk/create-react-app-typescript.
 
-The only defference is that file namea are made static (no hashes included) for producion builds. It may be usefull if you are going to publish your app using Visual Studio or other tool which require static file names. See https://github.com/facebook/create-react-app/issues/3855.
+The only deference is that file names are made static (no hashes included) for production builds. It may be useful if you are going to publish your app using Visual Studio or other tool which require static file names. See https://github.com/facebook/create-react-app/issues/3855.
 
 ## Getting Started
 

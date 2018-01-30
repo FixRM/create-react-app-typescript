@@ -1,4 +1,4 @@
-# `react-scripts-ts-static` [![npm version](https://badge.fury.io/js/react-scripts-ts-static.svg)](https://badge.fury.io/js/react-scripts-ts-static) [![Build Status](https://travis-ci.org/wmonk/create-react-app-typescript-static.svg?branch=master)](https://travis-ci.org/wmonk/create-react-app-typescript-static)
+# `react-scripts-ts-static` [![npm version](https://badge.fury.io/js/react-scripts-ts-static.svg)](https://badge.fury.io/js/react-scripts-ts-static) [![Build Status](https://travis-ci.org/fixrm/create-react-app-typescript-static.svg?branch=master)](https://travis-ci.org/fixrm/create-react-app-typescript-static)
 
 Create React apps (with Typescript) with no build configuration.
 
